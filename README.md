@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hello. I'm Juan Winzig. 👋
 
-<!--
-**juanwinzig/juanwinzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronic Engineering student interested in intelligent systems, automation, software, and technology applied to real-world problems.
 
-Here are some ideas to get you started:
+I’m not interested in memorizing concepts for the sake of memorization. I prefer understanding how things work from first principles and using that knowledge to build useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+
+- Electronics and embedded systems
+- Industrial automation
+- Applied artificial intelligence
+- Networks and distributed systems
+- Software development
+- Technology entrepreneurship
+
+---
+
+## Currently Working On
+
+- Development of intelligent monitoring systems
+- Exploring AI architectures for computer vision
+- Improving software development skills
+
+---
+
+## Personal Philosophy
+
+I believe a solid life requires three things:
+
+- Training the body
+- Cultivating the mind
+- Building something useful for others
+
+---
+
+## Technologies & Tools
+
+```txt
+Languages:
+- C#
+- Python
+- SQL (basic)
+- JavaScript (basic)
+
+Tools:
+- Visual Studio
+- Git & GitHub
+- Blender
+- WinUI 3
+- PLCs
+- Linux
+
+Technical Areas:
+- Electronics
+- Automation
+- Artificial Intelligence
+- Distributed Systems
